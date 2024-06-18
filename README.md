@@ -53,7 +53,7 @@ This is a simple Slot Machine game implemented using Python and Tkinter for the 
 * If your balance reaches zero, the game will end, and you will be notified.
 
 
-**## Code Structure**
+**Code Structure**
 1. SlotMachineApp: The main class that initializes the GUI and handles all game logic.
 2. deposit: Method to prompt the user for a deposit amount.
 3. prompt: Helper method to show a prompt dialog.
